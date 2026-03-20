@@ -92,9 +92,14 @@ Build GUI interface
 
 ## 👨‍💻 Author
 
-### Vivek Bhauraj Gautam
-### Email: vivekbgautam@gmail.com
+### Name
+Vivek Bhauraj Gautam
 
-### GitHub: https://github.com/vivekbgautam
+### Email: 
+vivekbgautam@gmail.com
 
-### LinkedIn : https://www.linkedin.com/in/vivek-b-gautam/
+### GitHub: 
+https://github.com/vivekbgautam
+
+### LinkedIn: 
+https://www.linkedin.com/in/vivek-b-gautam/
