@@ -1,18 +1,18 @@
-# 📧 Auto Mail Sending Script (Python)
+# Auto Mail Sending Script (Python)
 
-## 🎯 Aim
+## Aim
 To develop a Python script that sends emails using Gmail SMTP with secure authentication (App Password).
 
 ---
 
-## 📌 Description
+## Description
 This project is a simple Python-based email automation script that uses the built-in `smtplib` and `email` libraries to send emails via Gmail.
 
 The script creates an email message, connects securely to Gmail’s SMTP server using SSL, logs in with an App Password, and sends the email to the specified receiver.
 
 ---
 
-## ⚙️ Features
+## Features
 - Send email using Gmail SMTP server
 - Secure connection using SSL (SMTP_SSL)
 - Uses App Password for authentication
@@ -22,14 +22,14 @@ The script creates an email message, connects securely to Gmail’s SMTP server 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - smtplib
 - email.message.EmailMessage
 
 ---
 
-## 📂 File Structure
+## File Structure
 ```
 Auto_Mail_Sending_Script/
 │── Auto_mail_sender.py
@@ -38,7 +38,7 @@ Auto_Mail_Sending_Script/
 
 ---
 
-## 🔄 Working Flow
+## Working Flow
 1. Create an email object using EmailMessage
 2. Set sender, receiver, and subject
 3. Add email body
@@ -49,7 +49,7 @@ Auto_Mail_Sending_Script/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install Python
 Make sure Python is installed on your system.
@@ -64,9 +64,10 @@ Make sure Python is installed on your system.
 ```bash
 python Auto_Mail_Sender.py
 ```
-💻 Function Used
+## Function Used
+
 def Marvellous_send_mail(sender, app_password, receiver, subject, body):
-🔒 Security Warning ⚠️
+ Security Warning 
 
 Do NOT expose your App Password in public repositories
 
@@ -74,9 +75,10 @@ Use environment variables or .env file instead
 
 Always use a temporary/test email account
 
-📌 Example Output
+## Example Output
 Mervellous Mail sent Succesfully
-📈 Future Improvements
+
+Future Improvements
 
 Add multiple recipients support
 
