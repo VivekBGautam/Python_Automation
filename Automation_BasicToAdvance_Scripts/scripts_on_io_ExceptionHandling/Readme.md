@@ -1,7 +1,7 @@
 # 🧠 Script on Input, Output & Exception Handling (Python Automation)
 
 ## 📌 Aim
-
+ 
 To create Python scripts that handle **user input**, **formatted output**, and **exception handling**, making automation scripts more robust, user-friendly, and error-resistant.
 
 ---
